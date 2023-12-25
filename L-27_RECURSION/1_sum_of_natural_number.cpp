@@ -15,7 +15,7 @@ int sum_of_natural_numbers(int n)
 }
 
 int main()
-{ int a=sum_of_natural_numbers(5);
-cout<<a;
+{ int c=sum_of_natural_numbers(5);
+cout<<c;
     return 0;
 }
