@@ -1,0 +1,4 @@
+ptr++
+(*ptr)++
+*++ptr---->first move pointer by 4 bytes and then derefrence vlaue
+++*ptr---->first derefrence and then incrrement the derefrence value

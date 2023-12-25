@@ -1,0 +1,20 @@
+// write a programe to print sum of first natural numbers,where n is the input
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    int sum = 0;
+    do
+    {
+        int num;
+        cin >> num;
+        sum = sum + num;
+        n--;
+    } while (n > 0);
+    cout<<sum<<endl;
+    return 0;
+}
