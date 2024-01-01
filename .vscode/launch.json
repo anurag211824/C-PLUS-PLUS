@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ak066/Documents/C-PLUS-PLUS/L-28_RECURSION_ARRAY",
-      "program": "c:/Users/ak066/Documents/C-PLUS-PLUS/L-28_RECURSION_ARRAY/build/Debug/outDebug",
+      "cwd": "c:/Users/ak066/Documents/C-PLUS-PLUS/L-27_RECURSION",
+      "program": "c:/Users/ak066/Documents/C-PLUS-PLUS/L-27_RECURSION/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
