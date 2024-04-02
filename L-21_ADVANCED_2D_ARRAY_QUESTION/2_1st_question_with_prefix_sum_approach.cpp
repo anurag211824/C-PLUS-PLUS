@@ -54,14 +54,6 @@ int main()
             cin >> matrix[i][j];
         }
     }
-    for (int i = 0; i < m; i++)
-    {
-        for (int j = 0; j < n; j++)
-        {
-            cout << matrix[i][j] << " ";
-        }
-        cout << endl;
-    }
     cout<<endl;
     int l1, r1;
     int l2, r2;

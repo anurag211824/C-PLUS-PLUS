@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-int power_vlaue(int p, int q)
+ int power_vlaue(int p, int q)
 {
     if (q == 0)
         return 1;
@@ -21,7 +21,7 @@ int power_vlaue(int p, int q)
 
 int main()
 {
-    int ans = power_vlaue(2, 7);
+    int ans = power_vlaue(2, 500);
     cout << ans;
     return 0;
 }
