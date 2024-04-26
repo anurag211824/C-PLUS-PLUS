@@ -12,7 +12,7 @@ reverse(s1.begin(),s1.end());
 
 //2.substr() to extract a substring from a given substring
 string s2="victus omen";
-//cout<<s2.substr(2,5)<<endl;
+cout<<s2.substr(2,5)<<endl;
 
 
 //3.+operator to concatenate to strings
@@ -40,7 +40,7 @@ s8.push_back(c);
 //to_string(); to convert a number into a string
 int num=1001;
 string s9=to_string(num);
-cout<<s9<<endl;
+//cout<<s9<<endl;
 
 return 0;
 }

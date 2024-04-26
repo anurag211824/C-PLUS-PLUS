@@ -8,7 +8,7 @@ int main(){
 int row, col;
     cout << "enter number of rows of 2d vector:";
     cin >> row;
-    cout << "enter number of rows of 2d vector:";
+    cout << "enter number of col of 2d vector:";
     cin >> col;
     vector< vector<int> > vec; // intializing the vector of vectors 
     int num=0;
